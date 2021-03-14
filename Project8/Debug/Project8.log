@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\DELL\source\repos\Project8\Project8\源.cpp(232,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\DELL\source\repos\Project8\Project8\源.cpp(532,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\DELL\source\repos\Project8\Project8\源.cpp(537,35): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\DELL\source\repos\Project8\Project8\源.cpp(69): warning C4715: “card::funCard”: 不是所有的控件路径都返回值
+C:\Users\DELL\source\repos\Project8\Project8\源.cpp(396): warning C4172: 返回局部变量或临时变量的地址: p
+  Project8.vcxproj -> C:\Users\DELL\source\repos\Project8\Debug\Project8.exe
